@@ -5,9 +5,9 @@ export default function AboutPage() {
 
       {/* Image */}
       <img
-        src="/via.jpg"
+        src="/nic.jpg"
         alt="About"
-        className="mx-auto rounded-lg shadow-md w-80 mb-6"
+        className="mx-auto rounded-1x shadow-md w-80 mb-6"
       />
 
       {/* Introduction */}
@@ -44,12 +44,12 @@ export default function AboutPage() {
           </div>
           <div className="bg-white p-4 rounded-lg shadow">
             <img src="/team2.jpg" alt="Team Member" className="rounded-full w-24 h-24 mx-auto mb-3" />
-            <h3 className="font-semibold">Ali Khan</h3>
+            <h3 className="font-semibold">zirwa</h3>
             <p className="text-gray-600 text-sm">Backend Developer</p>
           </div>
           <div className="bg-white p-4 rounded-lg shadow">
             <img src="/team3.jpg" alt="Team Member" className="rounded-full w-24 h-24 mx-auto mb-3" />
-            <h3 className="font-semibold">Sara Ahmed</h3>
+            <h3 className="font-semibold">khadija</h3>
             <p className="text-gray-600 text-sm">UI/UX Designer</p>
           </div>
         </div>
